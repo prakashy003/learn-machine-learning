@@ -1,0 +1,1 @@
+Use OpenCV to find a face in a picture
