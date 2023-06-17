@@ -1,0 +1,3 @@
+-> Learn about texture and color features in an image
+-> Learn about Decision Trees and train a decision tree on texture and color features.
+-> Train a decision tree to differentiate between apples and oranges
